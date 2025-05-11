@@ -2,6 +2,6 @@ fastapi
 uvicorn
 transformers
 sentencepiece
-openai
+pywhispercpp
 pydantic
 langdetect
